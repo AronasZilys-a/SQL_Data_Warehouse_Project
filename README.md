@@ -23,21 +23,17 @@ Once the warehouse is built, SQL-driven analytics are developed to provide deepe
 
 - **Customer Behaviour** – Understanding how customers interact and engage.  
 - **Product Performance** – Assessing product sales, strengths, and opportunities.  
-- **Sales Trends** – Identifying changes and emerging patterns over time.  
-
-These insights give stakeholders access to essential business metrics, supporting informed and strategic decision-making.  
+- **Sales Trends** – Identifying changes and emerging patterns over time.    
 
 ---
 
 ## 📖 Licence
 
 This project is released under the **MIT Licence**.  
-That means you’re free to use, modify, and share the code as you wish, even for commercial purposes, provided that you include the original licence and copyright notice. In short: it’s permissive, flexible, and designed to encourage reuse.
+That means you’re free to use, modify, and share the code as you wish.
 
 ---
 
 ## 👤 About Me
 
-Hello! I’m **Aronas Zilys**, a **Data Analytics Consultant** who enjoys working with data and continuously learning new skills.  
-My focus is on transforming raw data into valuable insights that help drive positive action and better decision-making.  
-I take pride in building solutions that make data more meaningful, accessible, and impactful for organisations.  
+Hello! I’m **Aronas Zilys**, a **Data Analytics Consultant** who enjoys working with data and continuously learning new skills. My focus is on transforming raw data into valuable insights that help drive positive action and better decision-making. I take pride in building solutions that make data more meaningful, accessible, and impactful for organisations.  
