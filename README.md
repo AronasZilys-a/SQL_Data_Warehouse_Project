@@ -25,7 +25,7 @@ Once the warehouse is built, SQL-driven analytics are developed to provide deepe
 
 ---
 
-## 🏛 Data Architecture
+## 🏛 Project Architecture
 
 This section describes the overall architecture of the data warehouse, illustrating the flow from raw source systems through staging and Silver layers to the Gold layer.  
 
