@@ -40,6 +40,8 @@ The data lineage captures the journey of each dataset, highlighting how raw fiel
 
 **Illustrations / Diagrams:**  
 
+![Data Lineage](Documents/Data_Lineage.png)
+
 
 ---
 
