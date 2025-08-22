@@ -52,7 +52,7 @@ The Gold layer implements a star schema for analytics, consisting of two dimensi
 
 **Diagram:**  
 
-
+![Documents/Data_Mart_Star_Schema.png](Documents/Data_Mart_Star_Schema.png)
 
 ---
 
