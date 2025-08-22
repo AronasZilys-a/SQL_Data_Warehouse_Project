@@ -29,8 +29,9 @@ Once the warehouse is built, SQL-driven analytics are developed to provide deepe
 
 This section describes the overall architecture of the data warehouse, illustrating the flow from raw source systems through staging and Silver layers to the Gold layer.  
 
-**Illustrations / Diagrams:**  
+**Illustration:**  
 
+![Project_Architecture](Documents/Project_Architecture.png)
 
 ---
 
@@ -38,9 +39,9 @@ This section describes the overall architecture of the data warehouse, illustrat
 
 The data lineage captures the journey of each dataset, highlighting how raw fields are transformed, cleansed, and enriched across layers before reaching the Gold layer.  
 
-**Illustrations / Diagrams:**  
+**Illustration:**  
 
-![Data Lineage](Documents/Data_Lineage.png)
+![Data_Lineage](Documents/Data_Lineage.png)
 
 
 ---
@@ -49,7 +50,7 @@ The data lineage captures the journey of each dataset, highlighting how raw fiel
 
 The Gold layer implements a star schema for analytics, consisting of two dimension views (`dim_customer` and `dim_product`) and one fact view (`fact_sales`). All columns are enriched with user-friendly names, standardised formats, and calculated fields where needed.  
 
-**Illustrations / Diagrams:**  
+**Diagram:**  
 
 
 
