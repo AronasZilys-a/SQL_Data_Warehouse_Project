@@ -1,4 +1,7 @@
-Data Catalog ue
+# 📊 Data Catalogue
+
+This document provides a comprehensive overview of the tables in the Gold layer, including column names, data types, descriptions, and example values. It serves as a reference for analysts, developers, and stakeholders to understand the structure and content of each table.
+
 
 ### `gold.dim_customer`
 
