@@ -31,7 +31,7 @@ This section describes the overall architecture of the data warehouse, illustrat
 
 **Illustration:**  
 
-![Project_Architecture](Documents/Project_Architecture.png)
+![Project_Architecture_Flow](Documents/Project_Architecture_Flow.png)
 
 ---
 
